@@ -1,0 +1,83 @@
+ru_primeiro r2medio=0.2
+len =  608
+
+md_f_c
+mf_f_c 
+est_f_c 
+fi_f_c
+md_c
+mf_c
+est_c
+md_f_r
+mf_f_r
+est_f_r
+fi_f_r
+md_r
+mf_r
+est_r 377 ou mais r2
+anos_anlz_filtro 
+
+
+ru_segundo r2medio=2.2
+len=256
+
+md_f_c 144 ou mais acc min e r2
+mf_f_c 
+est_f_c
+fi_f_c
+md_c
+mf_c
+est_c 
+md_f_r 55 ou mais
+mf_f_r 
+est_f_r
+fi_f_r 0.5 ou menos
+md_r 55 ou menos
+mf_r 13 ou menos
+est_r 
+anos_anlz_filtro 
+
+
+
+
+
+rsd_primeiro r2medio=0.2
+len=24
+
+md_f_c 
+mf_f_c 377 tempo e acc
+est_f_c 377 tempo
+fi_f_c 
+md_c
+mf_c 13
+est_c 
+md_f_r 34 ou menos
+mf_f_r 377 ou mais
+est_f_r 
+fi_f_r 
+md_r 
+mf_r 
+est_r 
+anos_anlz_filtro 
+
+
+
+
+rsd_segundo r2medio=0.2
+len=24
+
+md_f_c 
+mf_f_c 233 ou menos acc e tempo 
+est_f_c
+fi_f_c 
+md_c 13 ou menos tempo
+mf_c 13 ou menos tempo
+est_c 
+md_f_r 
+mf_f_r 
+est_f_r 
+fi_f_r 
+md_r 
+mf_r 13 tempo
+est_r 
+anos_anlz_filtro 
